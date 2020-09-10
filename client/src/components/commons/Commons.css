@@ -1,0 +1,14 @@
+.signupContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.parentContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
+.linkColor {
+  color: white;
+}

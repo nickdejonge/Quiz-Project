@@ -1,0 +1,23 @@
+.outerContainer {
+  height: 100%;
+}
+
+.sideContainer {
+  height: 100%;
+  background-color: whitesmoke;
+  color: #3f51b5;
+}
+.userContainer {
+  height: 100%;
+  background-color: whitesmoke;
+  color: #3f51b5;
+}
+
+.linkColor {
+  color: #3f51b5;
+}
+
+.sidebar {
+  height: calc(100vh);
+  /* background: grey; */
+}

@@ -1,0 +1,16 @@
+.signupContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.parentContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
+
+.form-control.black-text:disabled {
+  color: black;
+}
+
