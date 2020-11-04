@@ -1,8 +1,8 @@
 const database = {
-  host: 'classmysql.engr.oregonstate.edu',
-  user: 'cs467_group1',
-  password: '3FfEpiDsJoX60BVp',
-  database: 'cs467_group1',
+  host: 'localhost',
+  user: 'quizuser',
+  password: 'Quizproject123!',
+  database: 'quizdb',
   connectionLimit: 20,
 };
 
